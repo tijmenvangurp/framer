@@ -8,3 +8,8 @@ npm install
 
 For the best editing experience in VSCode, install Prettier
 [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## credits
+
+This project is based on this tutorial:
+[https://www.youtube.com/watch?v=fjbjEYPG-C8&t=683s](https://www.youtube.com/watch?v=fjbjEYPG-C8&t=683s)
